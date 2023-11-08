@@ -6,4 +6,6 @@
 
 ### Salvando novas modificações no Git.
 
-* Comnadno git push.
+* Comnando git push.
+
+** Novo comando git push.
