@@ -9,3 +9,5 @@
 * Comnando git push.
 
 ** Novo comando git push.
+
+*** Comando git pull.
